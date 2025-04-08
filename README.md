@@ -1,4 +1,6 @@
 # Listas Circulares
+![image](https://github.com/user-attachments/assets/191163bc-ae8e-4908-a71e-7cf9146591bd)
+
 
 Este repositorio contiene implementaciones de listas circulares en Python.
 
